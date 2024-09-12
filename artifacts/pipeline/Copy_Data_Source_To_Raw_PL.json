@@ -182,7 +182,8 @@
 		],
 		"parameters": {
 			"TargetStorageName": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "danalypaakos2sa"
 			},
 			"DatasetSize": {
 				"type": "string",

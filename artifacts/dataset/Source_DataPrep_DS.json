@@ -6,7 +6,7 @@
 			"type": "LinkedServiceReference",
 			"parameters": {
 				"StorageWithSaSUrl": {
-					"value": "@concat('https://medicaldl.blob.core.windows.net/source?SAS=REDACTED)",
+					"value": "@concat('https://medicaldl.blob.core.windows.net/source?SAS=REDACTED')",
 					"type": "Expression"
 				}
 			}
